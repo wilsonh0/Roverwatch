@@ -1,29 +1,25 @@
-# app
+## Roverwatch
 
-## Project setup
+Web app for tracking NASA rovers on Mars.
+Built with Vue.js.
+
+### Project setup
 ```
 npm install
 ```
+### API keys
 
-### Compiles and hot-reloads for development
+Replace the API keys in store.js. 
+* [NASA](https://api.nasa.gov/api.html#MarsPhotos)
+* [newsapi](https://newsapi.org/)
+
+### To run
+For development:
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+For production:
 ```
 npm run build
 ```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
