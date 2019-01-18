@@ -3,6 +3,9 @@
 Web app for tracking NASA rovers on Mars.
 Built with Vue.js.
 
+## Demo
+![Imgur](https://i.imgur.com/sTEJLuF.gif)
+
 ### Project setup
 ```
 npm install
