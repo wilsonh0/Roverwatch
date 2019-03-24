@@ -1,6 +1,6 @@
 ## Roverwatch
 
-Web app for tracking NASA rovers on Mars.
+Web app for tracking NASA rovers' onboard cameras on Mars.
 Built with Vue.js.
 
 ## Demo
